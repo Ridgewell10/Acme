@@ -1,0 +1,11 @@
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\bin\Debug\netcoreapp3.0\AcmeContracts.deps.json
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\bin\Debug\netcoreapp3.0\AcmeContracts.dll
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\bin\Debug\netcoreapp3.0\AcmeContracts.pdb
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\obj\Debug\netcoreapp3.0\AcmeContracts.csprojAssemblyReference.cache
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\obj\Debug\netcoreapp3.0\AcmeContracts.AssemblyInfoInputs.cache
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\obj\Debug\netcoreapp3.0\AcmeContracts.AssemblyInfo.cs
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\obj\Debug\netcoreapp3.0\AcmeContracts.dll
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\obj\Debug\netcoreapp3.0\AcmeContracts.pdb
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\bin\Debug\netcoreapp3.0\AcmeEntities.dll
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\bin\Debug\netcoreapp3.0\AcmeEntities.pdb
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeContracts\obj\Debug\netcoreapp3.0\AcmeContracts.csproj.CopyComplete
