@@ -1,0 +1,13 @@
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\bin\Debug\netcoreapp3.0\AcmeRepository.deps.json
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\bin\Debug\netcoreapp3.0\AcmeRepository.dll
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\bin\Debug\netcoreapp3.0\AcmeRepository.pdb
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\obj\Debug\netcoreapp3.0\AcmeRepository.csprojAssemblyReference.cache
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\obj\Debug\netcoreapp3.0\AcmeRepository.AssemblyInfoInputs.cache
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\obj\Debug\netcoreapp3.0\AcmeRepository.AssemblyInfo.cs
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\obj\Debug\netcoreapp3.0\AcmeRepository.dll
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\obj\Debug\netcoreapp3.0\AcmeRepository.pdb
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\bin\Debug\netcoreapp3.0\AcmeContracts.dll
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\bin\Debug\netcoreapp3.0\AcmeEntities.dll
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\bin\Debug\netcoreapp3.0\AcmeContracts.pdb
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\bin\Debug\netcoreapp3.0\AcmeEntities.pdb
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeRepository\obj\Debug\netcoreapp3.0\AcmeRepository.csproj.CopyComplete

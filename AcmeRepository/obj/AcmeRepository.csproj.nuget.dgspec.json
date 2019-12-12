@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeRepository\\AcmeRepository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeContracts\\AcmeContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeContracts\\AcmeContracts.csproj",
+        "projectName": "AcmeContracts",
+        "projectPath": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeContracts\\AcmeContracts.csproj",
+        "packagesPath": "C:\\Users\\RidgewellM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RidgewellM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeEntities\\AcmeEntities.csproj": {
+                "projectPath": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeEntities\\AcmeEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeEntities\\AcmeEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeEntities\\AcmeEntities.csproj",
+        "projectName": "AcmeEntities",
+        "projectPath": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeEntities\\AcmeEntities.csproj",
+        "packagesPath": "C:\\Users\\RidgewellM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RidgewellM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeRepository\\AcmeRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeRepository\\AcmeRepository.csproj",
+        "projectName": "AcmeRepository",
+        "projectPath": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeRepository\\AcmeRepository.csproj",
+        "packagesPath": "C:\\Users\\RidgewellM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RidgewellM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeContracts\\AcmeContracts.csproj": {
+                "projectPath": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeContracts\\AcmeContracts.csproj"
+              },
+              "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeEntities\\AcmeEntities.csproj": {
+                "projectPath": "C:\\Users\\RidgewellM\\source\\repos\\AcmeAPI\\AcmeEntities\\AcmeEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
