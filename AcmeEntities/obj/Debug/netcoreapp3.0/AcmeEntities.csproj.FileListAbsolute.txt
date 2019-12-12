@@ -1,0 +1,10 @@
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\bin\Debug\netcoreapp3.0\AcmeEntities.deps.json
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\bin\Debug\netcoreapp3.0\AcmeEntities.dll
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\obj\Debug\netcoreapp3.0\AcmeEntities.csprojAssemblyReference.cache
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\obj\Debug\netcoreapp3.0\AcmeEntities.AssemblyInfoInputs.cache
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\obj\Debug\netcoreapp3.0\AcmeEntities.AssemblyInfo.cs
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\bin\Debug\netcoreapp3.0\AcmeEntities.runtimeconfig.json
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\bin\Debug\netcoreapp3.0\AcmeEntities.runtimeconfig.dev.json
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\bin\Debug\netcoreapp3.0\AcmeEntities.pdb
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\obj\Debug\netcoreapp3.0\AcmeEntities.dll
+C:\Users\RidgewellM\source\repos\AcmeAPI\AcmeEntities\obj\Debug\netcoreapp3.0\AcmeEntities.pdb
